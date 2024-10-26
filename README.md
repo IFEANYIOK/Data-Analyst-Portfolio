@@ -18,11 +18,11 @@ Examine the impact of Covid-19 on global job losses especially as it affected va
 
 ## Process
 Cleaning:
---1) Stage my Raw data by creating a duplicate and name it Layoffs_staging.
---2) Remove any duplicate data
---3) Standardize data i.e check for errors and other things to make for a uniform data 
---4) Check for NULLS and blank spaces
---5) Remove any unnecessary columns or rows
+1) Stage my Raw data by creating a duplicate and name it Layoffs_staging.
+2) Remove any duplicate data
+3) Standardize data i.e check for errors and other things to make for a uniform data 
+4) Check for NULLS and blank spaces
+5) Remove any unnecessary columns or rows
 
 Exploration & Analysis:
 1) Determine the number of companies that had 100% layoffs ranked by Amount of funds raised'
