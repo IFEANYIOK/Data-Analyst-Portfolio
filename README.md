@@ -46,4 +46,4 @@ Exploration & Analysis:
 
 ## Queries
 -<a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFF%20DATA%20CLEANING.docx">Data Cleaning</a>
--<a href="">Data Exploration& Analysis</a>
+-<a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFFS%20EXPLORATORY%20DATA%20ANALYSIS.txt">Data Exploration& Analysis</a>
