@@ -35,7 +35,7 @@ Exploration & Analysis:
 8) Used common table expression and window function(Dense_Rank) to detemine top 5 companies in termas of layoffs per year overt the period of time.
 
 ## Queries
-- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFF%20DATA%20CLEANING.docx">Data Cleaning</a>
+- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFF%20DATA%20CLEANING.sql">Data Cleaning</a>
 - <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/EXPLORATION%20%26%20ANALYSIS.sql">Data Exploration& Analysis</a>
 
 ## Insights
