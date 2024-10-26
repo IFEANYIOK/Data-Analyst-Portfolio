@@ -34,6 +34,10 @@ Exploration & Analysis:
 7) Used Common table expression and window function(rolling totals) to determine trends of the pandemic impact over time
 8) Used common table expression and window function(Dense_Rank) to detemine top 5 companies in termas of layoffs per year overt the period of time.
 
+## Queries
+- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFF%20DATA%20CLEANING.docx">Data Cleaning</a>
+- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFFS%20EXPLORATORY%20DATA%20ANALYSIS.txt">Data Exploration& Analysis</a>
+
 ## Insights
 - 116 companies laid off 100% of workforce, which means 116 companies most likely went down.
 - Amazon, Google and Meta laid off the highest number of workers.
@@ -43,7 +47,12 @@ Exploration & Analysis:
 - The large companies in the post-ipo phase laid off the most
 - The world was most hit during between october 2022 and January 2023. The year 2021 was the least hit.
 - A lot of the tech companies took some big hits.
+  
+## Conclusion
+In conclusion, the data reveals significant workforce reductions across industries, with the consumer and retail sectors most impacted and the United States leading in layoffs. Large, post-IPO tech companies, particularly Amazon, Google, and Meta, executed major layoffs, with October 2022 to January 2023 showing peak impact. Given that 2023’s layoff numbers were already high by March, further cuts are likely. This analysis underscores the need for resilience strategies in vulnerable industries, especially for tech companies navigating post-IPO challenges, and suggests a potentially volatile employment landscape in the near term.
 
-## Queries
-- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFF%20DATA%20CLEANING.docx">Data Cleaning</a>
-- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFFS%20EXPLORATORY%20DATA%20ANALYSIS.txt">Data Exploration& Analysis</a>
+
+
+
+
+
