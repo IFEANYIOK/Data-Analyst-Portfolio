@@ -45,3 +45,5 @@ Exploration & Analysis:
 - A lot of the tech companies took some big hits.
 
 ## Queries
+-<a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFF%20DATA%20CLEANING.docx">Data Cleaning</a>
+-<a href="">Data Exploration& Analysis</a>
