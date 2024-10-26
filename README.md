@@ -36,7 +36,7 @@ Exploration & Analysis:
 
 ## Queries
 - <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFF%20DATA%20CLEANING.docx">Data Cleaning</a>
-- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFFS%20EXPLORATORY%20DATA%20ANALYSIS.txt">Data Exploration& Analysis</a>
+- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/EXPLORATION%20%26%20ANALYSIS.sql">Data Exploration& Analysis</a>
 
 ## Insights
 - 116 companies laid off 100% of workforce, which means 116 companies most likely went down.
