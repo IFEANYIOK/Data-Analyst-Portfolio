@@ -1,4 +1,4 @@
-# Election Results Analysis Project
+# Election Results Analysis Project- SQL
 
 ## Code Queries
 - <a href="https://github.com/IFEANYIOK/SQL/blob/main/Full%20Election%20Codes.sql">Full Election Analysi Codes</a>
