@@ -1,4 +1,4 @@
-# SQL Data Cleaning, Exploration and Analysis Covid-19 Layoffs
+# Covid-19 Layoffs Data Cleaning, Exploration and Analysis Project- SQL 
 
 ## Code Queries
 - <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/LAYOFF%20DATA%20CLEANING.sql">Data Cleaning</a>
@@ -21,6 +21,25 @@ In conclusion, the data reveals significant workforce reductions across industri
 
 
 # Election Results Analysis Project
+
+## Code Queries
+- <a href="https://github.com/IFEANYIOK/SQL/blob/main/Full%20Election%20Codes.sql">Full Election Analysi Codes</a>
+
+## Description
+For this project we investigate the legally contested election results in Nigeria due to the questionable data integrity. Our purpose is to find out potential arears of irregularities through the available election data. This we will set out to achieve through highlighting outlier polling units whose results deviate significantly from their neighbouring units. This will serve as a pointer to possibility of rigging and undue influences.
+
+## Dataset Used
+- <a href="https://github.com/IFEANYIOK/SQL/blob/main/Anambra%20L%26L.xlsx">Uncleaned election Data</a>
+
+**Skills Used:** **Preparation & cleaning of geocoded data, window Functions, Aggregate Functions, CTEs, Clustering, Outlier detection with standard deviation, Data Visualisation, report writing**
+
+**Technology:** SQL Server Management Studio, Google API- Awesome table, Microsoft Excel
+
+## Report
+- <a href="https://github.com/IFEANYIOK/SQL/blob/main/OUTLIER%20DETECTION%20REPORT.docx">Uncleaned election Data</a>
+  
+## Results
+According to the findings we can safely say that LP had a landslide victory. Hence polling units where they were extremely outclassed could be contested. Nevertheless, the incidence of over-voting identified in an LP outlier polling unit in Ama-Okpogba, Anambra East, Anambra, calls to question the results from the LP outlier polling units.
 
 
 
