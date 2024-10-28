@@ -1,3 +1,8 @@
+# Table of Contents
+
+* Election Results Analysis Project- SQL
+* Covid-19 Layoffs Data Cleaning, Exploration and Analysis Project- SQL
+  
 # Election Results Analysis Project- SQL
 
 ## Code Queries
