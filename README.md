@@ -1,7 +1,7 @@
 # Table of Contents
 
-* - <a href="https://github.com/IFEANYIOK/SQL/blob/main/README.md#election-results-analysis-project--sql">Election Results Analysis Project- SQL</a>
-* Covid-19 Layoffs Data Cleaning, Exploration and Analysis Project- SQL
+*  <a href="https://github.com/IFEANYIOK/SQL/blob/main/README.md#election-results-analysis-project--sql">Election Results Analysis Project- SQL</a>
+*  <a href="https://github.com/IFEANYIOK/SQL/blob/main/README.md#covid-19-layoffs-data-cleaning-exploration-and-analysis-project--sql">Covid-19 Layoffs Data Cleaning, Exploration and Analysis Project- SQL</a>
   
 # Election Results Analysis Project- SQL
 
