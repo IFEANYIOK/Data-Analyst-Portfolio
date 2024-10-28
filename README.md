@@ -62,6 +62,23 @@ A freelance project for Data cleaning, processing, analysis and dashboard creati
 **Technology:** Microsoft Excel
   
 
+# Kuwait Car-Wash Accounting Spreadsheet Project- MICROSOFT EXCEL 
+
+## Consolidated Cashflow, Profit & Loss A/C, & Dashboard
+- <a href="https://github.com/IFEANYIOK/SQL/blob/main/CARWASH.xlsx">Kuwait Car-Wash Accounting Spreadsheet Project</a>
+
+## Project Objective
+A Freelance Project for a new car wash in Kuwait where I created an excel template with the projected final accounts numbers to manage the business.
+
+## Dataset Used
+- <a href="https://github.com/IFEANYIOK/SQL/blob/main/PRE-PLAN%20QUESTIONAIRE%20(Car%20Wash).docx">Pre-Plan Questionaire</a>
+
+**Skills Used:** Requirement Gathering, Data preparation, Pivot table analysis, Use of interactive slicers, Dashboarding, Financial Accounting(Projected Financial Statements).
+
+**Technology:** Microsoft Excel
+  
+## Results
+A template of connected sheets with the relevant accounting line items to manage a Mobile car wash was developed. Accompanying it are cashflow and profit & loss dashboards for financial position story-telling that will enable the business see its position at a glance and also make data-driven decisions to improve its financial state.
 
 
 
