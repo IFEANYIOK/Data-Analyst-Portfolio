@@ -2,6 +2,8 @@
 
 *  <a href="https://github.com/IFEANYIOK/SQL/blob/main/README.md#election-results-analysis-project--sql">Election Results Analysis Project- SQL</a>
 *  <a href="https://github.com/IFEANYIOK/SQL/blob/main/README.md#covid-19-layoffs-data-cleaning-exploration-and-analysis-project--sql">Covid-19 Layoffs Data Cleaning, Exploration and Analysis Project- SQL</a>
+*  <a href="https://github.com/IFEANYIOK/SQL#kuwait-car-wash-accounting-spreadsheet-project--microsoft-excel">Kuwait Car-Wash Accounting Spreadsheet Project - MICROSOFT EXCEL</a>
+*  <a href="https://github.com/IFEANYIOK/SQL#bike-sales-dashboard--microsoft-excel">Bike Sales Dashboard- MICROSOFT EXCEL</a>
   
 # Election Results Analysis Project- SQL
 
@@ -45,23 +47,6 @@ Examine the impact of Covid-19 on global job losses especially as it affected va
 In conclusion, the data reveals significant workforce reductions across industries(116 companies laid off 100% of workforce), with the consumer and retail sectors most impacted and the United States leading in layoffs. Large, post-IPO tech companies, particularly Amazon, Google, and Meta, executed major layoffs, with October 2022 to January 2023 showing peak impact. Given that 2023’s layoff numbers were already high by March(125,677), further cuts are likely. This analysis underscores the need for resilience strategies in vulnerable industries, especially for tech companies navigating post-IPO challenges, and suggests a potentially volatile employment landscape in the near term.
 
 
-# Bike Sales Dashboard- MICROSOFT EXCEL
-
-## Cleaned Dataset, Analysis and Dashboard Spreadsheet 
-- <a href="https://github.com/IFEANYIOK/SQL/blob/main/Bike%20Sales%20Dashboard-MS%20Excel.xlsx">Bike Sales Dashboard</a>
-
-
-## Project Objective
-A freelance project for Data cleaning, processing, analysis and dashboard creation for a Bike sales company to show the demographics of their customer base so as to target the company marketing to where it has the highest potentials.
-
-## Dataset Used
-- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/CLEAN%20LAYOFFS%20DATA%20OUTPUT.xls">Dataset</a>
-
-**Skills Used:** Data preparation and cleaning, Logical comparism with 'IF' statement, Pivot table analysis, Use of interactive slicers, Dashboarding.
-
-**Technology:** Microsoft Excel
-  
-
 # Kuwait Car-Wash Accounting Spreadsheet Project- MICROSOFT EXCEL 
 
 ## Consolidated Cashflow, Profit & Loss A/C, & Dashboard
@@ -79,6 +64,25 @@ A Freelance Project for a new car wash in Kuwait where I created an excel templa
   
 ## Results
 A template of connected sheets with the relevant accounting line items to manage a Mobile car wash was developed. Accompanying it are cashflow and profit & loss dashboards for financial position story-telling that will enable the business see its position at a glance and also make data-driven decisions to improve its financial state.
+
+
+# Bike Sales Dashboard- MICROSOFT EXCEL
+
+## Cleaned Dataset, Analysis and Dashboard Spreadsheet 
+- <a href="https://github.com/IFEANYIOK/SQL/blob/main/Bike%20Sales%20Dashboard-MS%20Excel.xlsx">Bike Sales Dashboard</a>
+
+
+## Project Objective
+A freelance project for Data cleaning, processing, analysis and dashboard creation for a Bike sales company to show the demographics of their customer base so as to target the company marketing to where it has the highest potentials.
+
+## Dataset Used
+- <a href="https://github.com/IFEANYIOK/SQL-Data-Cleaning-Covid-19-Layoffs-/blob/main/CLEAN%20LAYOFFS%20DATA%20OUTPUT.xls">Dataset</a>
+
+**Skills Used:** Data preparation and cleaning, Logical comparism with 'IF' statement, Pivot table analysis, Use of interactive slicers, Dashboarding.
+
+**Technology:** Microsoft Excel
+  
+
 
 
 
