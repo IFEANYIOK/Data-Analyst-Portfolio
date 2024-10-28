@@ -1,6 +1,6 @@
 # Table of Contents
 
-* Election Results Analysis Project- SQL
+* - <a href="https://github.com/IFEANYIOK/SQL/blob/main/README.md#election-results-analysis-project--sql">Election Results Analysis Project- SQL</a>
 * Covid-19 Layoffs Data Cleaning, Exploration and Analysis Project- SQL
   
 # Election Results Analysis Project- SQL
