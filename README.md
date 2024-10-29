@@ -82,7 +82,7 @@ A freelance project for Data cleaning, processing, analysis and dashboard creati
 
 **Technology:** Microsoft Excel
 
-# Human Resources Attrition Rate Project-Power BI 
+# Human Resources Attrition Rate Project-POWER BI 
 
 ## Dashboard
 - <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/HR%20Attrition%20Power%20Bi.pdf">HR Attrition Rate Project-Power BI(View PDF) 
