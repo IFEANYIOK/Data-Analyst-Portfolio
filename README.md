@@ -88,7 +88,6 @@ A freelance project for Data cleaning, processing, analysis and dashboard creati
 *  <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/HR%20Attrition%20Power%20Bi.pdf">HR Attrition Rate Project-Power BI(View PDF)</a>
 *  <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/HR%20Attrition%20Power%20Bi.pbit">HR Attrition Rate Project-Power BI(View in Power BI)</a>
 
-
 ## Project Objective
 A Freelance Project for a company Human resources department to determine the impact of various factors such as age, gender, performance ratings, job role, salary range, satisfaction score, and experience level, on the attrition rate .
 
@@ -100,7 +99,27 @@ A Freelance Project for a company Human resources department to determine the im
 **Technology:** Power BI Desktop
   
 ## Results
-A dashboard that tell the story as per the required factors in a compelling way helps the Human resource department to understand attrition in their company and take steps to mitigate them.
+A dashboard that tell the story as per the required factors in a compelling way helps the Human resource department to understand attrition in their company was developed This will help them take steps to mitigate them.
+
+
+# Data Professional Survey Dashboard-POWER BI 
+
+## Dashboard
+*  <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/Data%20Professional%20Survey%20Dashboard.pdf">Data Professional Survey Dashboardt-Power BI(View PDF)</a>
+*  <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/Data%20Professionals%20Survey%20dashboard.pbit">HR Attrition Rate Project-Power BI(View in Power BI)</a>
+
+## Project Objective
+A analysis of a survey done for data professionals using various metrics.
+
+## Dataset Used(Raw and Cleaned)
+- <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/Data%20Professional%20Survey%20Dataset.xlsx">Dataset</a>
+
+**Skills Used:** Data Preparation & Cleaning, Creation of interactive slicers, Dashboarding, Graphics.
+
+**Technology:** Power BI Desktop
+  
+## Results
+A dashboard that tell the story that reflects the outcomes elicited from the survey conducted was developed.
 
   
 
