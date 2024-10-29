@@ -85,9 +85,9 @@ A freelance project for Data cleaning, processing, analysis and dashboard creati
 # Human Resources Attrition Rate Project-POWER BI 
 
 ## Dashboard
-- <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/HR%20Attrition%20Power%20Bi.pdf">HR Attrition Rate Project-Power BI(View PDF) 
+* - <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/HR%20Attrition%20Power%20Bi.pdf">HR Attrition Rate Project-Power BI(View PDF) 
 </a>
-- <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/HR%20Attrition%20Power%20Bi.pbit">HR Attrition Rate Project-Power BI(View in Power BI) 
+* - <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio/blob/main/HR%20Attrition%20Power%20Bi.pbit">HR Attrition Rate Project-Power BI(View in Power BI) 
 </a>
 
 
