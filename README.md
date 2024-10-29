@@ -4,6 +4,8 @@
 *  <a href="https://github.com/IFEANYIOK/SQL/blob/main/README.md#covid-19-layoffs-data-cleaning-exploration-and-analysis-project--sql">Covid-19 Layoffs Data Cleaning, Exploration and Analysis Project- SQL</a>
 *  <a href="https://github.com/IFEANYIOK/SQL#kuwait-car-wash-accounting-spreadsheet-project--microsoft-excel">Kuwait Car-Wash Accounting Spreadsheet Project - MICROSOFT EXCEL</a>
 *  <a href="https://github.com/IFEANYIOK/SQL#bike-sales-dashboard--microsoft-excel">Bike Sales Dashboard- MICROSOFT EXCEL</a>
+*  <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio#human-resources-attrition-rate-project-power-bi">Human Resources Attrition Rate Project-POWER BI</a>
+*  <a href="https://github.com/IFEANYIOK/Data-Analyst-Portfolio#data-professional-survey-dashboard-power-bi">Data Professional Survey Dashboard-POWER BI</a>
   
 # Election Results Analysis Project- SQL
 
